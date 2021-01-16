@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Slownik", "Slownik\Slownik.pyproj", "{1B152F66-CF6F-424B-AC2C-FDE93D0A041C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B152F66-CF6F-424B-AC2C-FDE93D0A041C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B152F66-CF6F-424B-AC2C-FDE93D0A041C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE0DF8DF-6FEC-4081-B427-E4D8A8C286CC}
+	EndGlobalSection
+EndGlobal
